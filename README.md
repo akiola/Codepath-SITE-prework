@@ -58,7 +58,7 @@ January and it was pretty difficult creating images, shapes, buttons because you
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-If I had more time, I would make the game more interactive and difficult. Implement animations to announce game win and losses. I would also like to make it a twwo player game where users can compete over a server. The script.js has a lot of global variable and constants that make the code slow and inefficient. I will also refactor certain functions by implementing a single function to handle closely related operations.
+If I had more time, I would make the game more interactive and difficult. Implement animations to announce game win and losses and keep track of the number of lives the player is has left. I would also like to make it a twwo player game where users can compete over a server. The script.js has a lot of global variable and constants that make the code slow and inefficient. I will also refactor certain functions by implementing a single function to handle closely related operations.
 
 
 
