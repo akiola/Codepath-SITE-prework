@@ -63,7 +63,7 @@ If I had more time, I would make the game more interactive and difficult. Implem
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+https://www.loom.com/share/a4189394c2f2491eb9394ea8ac286098
 
 
 ## License
